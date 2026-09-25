@@ -1,0 +1,6 @@
+{
+  "name": "Janani Care",
+  "description": "Janani Care: Empathetic Clinical & Restorative Pregnancy Companion. Fetal development tracking, nutrition routine logs, clinical vault, quests, and Maushi AI voice assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
